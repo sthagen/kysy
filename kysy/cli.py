@@ -43,7 +43,7 @@ def callback(
 
 def classify_template(template: str) -> Template:
     """
-    Process the received template and return the classification
+    Process the received template and return the classification.
     """
     if not template:
         return Template.NONE
@@ -68,7 +68,7 @@ def diff_repo(
     template: str = typer.Option('', '-t', '--template'),
 ) -> int:
     """
-    Match the local data to the remote information  (no template handling yet)
+    Match the local data to the remote information  (no template handling yet).
     """
     repo_root = input if input else source
     target = 'STD_OUT' if not str(output) else str(output)
@@ -83,7 +83,7 @@ def label_repo(
     template: str = typer.Option('', '-t', '--template'),
 ) -> int:
     """
-    Labels the local data (no template handling yet)
+    Labels the local data (no template handling yet).
     """
     repo_root = input if input else source
     target = 'STD_OUT' if not str(output) else str(output)
@@ -93,7 +93,7 @@ def label_repo(
 @app.command('template')
 def app_template(output: str = typer.Option('', '-o', '--output')) -> None:
     """
-    Output an example jinja template representing the defaults
+    Output an example jinja template representing the defaults.
     """
     target = 'STD_OUT' if not output else output
     typer.echo(f'Example template generated per {target}')
@@ -102,7 +102,7 @@ def app_template(output: str = typer.Option('', '-o', '--output')) -> None:
 @app.command('version')
 def app_version() -> None:
     """
-    Display the kysy version and exit
+    Display the kysy version and exit.
     """
     callback(True)
 

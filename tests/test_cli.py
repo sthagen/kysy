@@ -27,7 +27,7 @@ def test_app_template():
 def test_cli_main():
     message = 'ignoring template: ignored'
     with pytest.raises(UserWarning) as ex:
-        cli.main(['diff', '.', 'foran-eller-bagved.txt', 'ignored']) == 0
+        cli.main(['diff', '.', 'kysy.txt', 'ignored']) == 0
         assert message in str(ex.value)
 
 

@@ -37,7 +37,7 @@ def callback(
     Relating answers to files and folders (Finnish: Vastaukset tiedostoihin ja kansioihin).
     """
     if version:
-        typer.echo(f'{APP_NAME} version {foran.__version__}')
+        typer.echo(f'{APP_NAME} version {kysy.__version__}')
         raise typer.Exit()
 
 

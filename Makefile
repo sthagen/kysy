@@ -12,7 +12,7 @@ install:
 install-all: install
 	pip install -r tests/requirements-dev.txt
 
-.PHONY: isort
+.PHONY: format
 format:
 	$(isort)
 	$(black)
@@ -34,7 +34,7 @@ fixtures:
 
 .PHONY: test
 test: clean fixtures
-	pytest --cov=kysy --log-format="%(levelname)s %(message)s"
+	pytest --asyncio-mode=strict --cov=kysy --cov-report term-missing:skip-covered --cov-branch --log-format="%(levelname)s %(message)s"
 
 .PHONY: testcov
 testcov: test

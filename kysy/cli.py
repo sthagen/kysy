@@ -10,7 +10,17 @@ import typer
 
 import kysy
 import kysy.kysy as ky
-from kysy.render import Template
+
+# from kysy.render import Template  # type: ignore
+
+
+class Template:
+    NONE = ''
+    JINJA_STRING = ''
+    F_STRING = ''
+    JINJA_PATH = ''
+    STRING = ''
+
 
 CWD = '.'
 APP_NAME = 'Ask or know (kysy tai tiedä).'
@@ -41,7 +51,7 @@ def callback(
         raise typer.Exit()
 
 
-def classify_template(template: str) -> Template:
+def classify_template(template: str) -> str:  # TODO: Template
     """
     Process the received template and return the classification.
     """

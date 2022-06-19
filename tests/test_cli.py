@@ -6,7 +6,8 @@ from typer.testing import CliRunner
 import kysy
 import kysy.cli as cli
 from kysy.cli import app
-from kysy.render import Template
+
+# from kysy.render import Template
 
 runner = CliRunner()
 

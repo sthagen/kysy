@@ -14,7 +14,7 @@ Prototyping names and concepts:
 Documentation:
 
 * [Installation](install.md)
-* [Use](use.md)
+* [Use](usage.md)
 * [Changes](changes.md)
 
 ## Status

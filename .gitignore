@@ -134,3 +134,4 @@ dmypy.json
 kysy-report.*
 local_publi.sh
 tests/fixtures
+local_*

@@ -1,16 +1,16 @@
 .DEFAULT_GOAL := all
-isort = isort kysy tests
-black = black -S -l 120 --target-version py39 kysy tests
+isort = isort kysy test
+black = black -S -l 120 --target-version py39 kysy test
 
 .PHONY: install
 install:
 	pip install -U pip wheel
-	pip install -r tests/requirements.txt
+	pip install -r test/requirements.txt
 	pip install -U .
 
 .PHONY: install-all
 install-all: install
-	pip install -r tests/requirements-dev.txt
+	pip install -r test/requirements-dev.txt
 
 .PHONY: format
 format:
@@ -20,7 +20,7 @@ format:
 .PHONY: lint
 lint:
 	python setup.py check -ms
-	flake8 kysy/ tests/
+	flake8 kysy/ test/
 	$(isort) --check-only --df
 	$(black) --check --diff
 
@@ -30,7 +30,7 @@ mypy:
 
 .PHONY: fixtures
 fixtures:
-	mkdir -p tests/fixtures/cache && cd tests/fixtures/cache && touch index
+	mkdir -p test/fixtures/cache && cd test/fixtures/cache && touch index
 
 .PHONY: test
 test: clean fixtures
@@ -56,6 +56,6 @@ clean:
 	rm -f .coverage
 	rm -f .coverage.*
 	rm -rf build
-	rm -rf tests/fixtures/cache
+	rm -rf test/fixtures/cache
 	rm -f kysy-report.*
 	python setup.py clean

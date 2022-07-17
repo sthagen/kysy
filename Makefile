@@ -59,3 +59,4 @@ clean:
 	rm -rf test/fixtures/cache
 	rm -f kysy-report.*
 	python setup.py clean
+	@rm -fr site/*

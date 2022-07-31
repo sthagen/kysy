@@ -11,14 +11,19 @@ Prototyping names and concepts:
 * file (tiedosto)
 * folder (kansio)
 
-Documentation:
+[License: MIT](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE)
 
-* [Installation](install.md)
-* [Use](usage.md)
-* [Changes](changes.md)
+[![version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![downloads](https://img.shields.io/pypi/dm/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![wheel](https://img.shields.io/pypi/wheel/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![supported-versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![supported-implementations](https://img.shields.io/pypi/implementation/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 
-## Status
+## Bug Tracker
 
-Experimental.
+Feature requests and bug reports are bested entered in the [todos of kysy](https://todo.sr.ht/~sthagen/kysy).
 
+## Primary Source repository
 
+The primary source repository of [kysy is at sourcehut](https://git.sr.ht/~sthagen/kysy)
+a collection of tools useful for software development.

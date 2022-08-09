@@ -25,7 +25,7 @@ User and developer [documentation of kysy](https://codes.dilettant.life/docs/kys
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of kysy](https://todo.sr.ht/~sthagen/kysy).
+Feature requests and bug reports are best entered in the [todos of kysy](https://todo.sr.ht/~sthagen/kysy).
 
 ## Primary Source repository
 

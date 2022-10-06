@@ -1,6 +1,6 @@
 # kysy
 
-Ask or know (kysy tai tiedä).
+Ask or know (Finnish: kysy tai tiedä).
 
 Relating answers to files and folders (Finnish: Vastaukset tiedostoihin ja kansioihin).
 

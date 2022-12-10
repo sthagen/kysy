@@ -3,6 +3,8 @@ site_description: "Ask or know (kysy tai tiedä)."
 
 theme:
   name: 'material'
+  logo: assets/logo.png
+  favicon: images/favicon.ico
   features:
     - navigation.expand
     - toc.integrate

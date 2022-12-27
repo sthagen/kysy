@@ -136,3 +136,4 @@ local_publi.sh
 tests/fixtures
 local_*
 .vscode/
+current-bandit.json

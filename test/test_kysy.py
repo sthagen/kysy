@@ -11,4 +11,4 @@ def test_main_empty():
     message = 'received wrong number of arguments'
     with pytest.raises(UserWarning) as ex:
         ky.main([]) == 2
-        assert message in str(ex.value)
+    assert message in str(ex.value)

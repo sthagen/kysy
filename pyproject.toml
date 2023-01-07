@@ -43,9 +43,6 @@ kysy = "kysy.cli:app"
 include = ["kysy"]
 exclude = ["test*"]
 
-[bdist_wheel]
-universal = true
-
 [tool.black]
 line-length = 120
 skip-string-normalization = true

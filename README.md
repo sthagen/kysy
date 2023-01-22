@@ -13,7 +13,7 @@ Prototyping names and concepts:
 
 [License: MIT](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE)
 
-Third party dependencies are documented in the folder [third-party](third-party/README.md).
+Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 [![downloads](https://pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)

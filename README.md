@@ -27,7 +27,7 @@ User and developer [documentation of kysy](https://codes.dilettant.life/docs/kys
 
 ## Bug Tracker
 
-Feature requests and bug reports are best entered in the [todos of kysy](https://todo.sr.ht/~sthagen/kysy).
+Any feature requests or bug reports shall go to the [todos of kysy](https://todo.sr.ht/~sthagen/kysy).
 
 ## Primary Source repository
 
@@ -39,6 +39,13 @@ The preferred public clones of `kysy` are:
 
 * [on codeberg](https://codeberg.org/sthagen/kysy) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.
 * [at sourcehut](https://git.sr.ht/~sthagen/kysy) - a collection of tools useful for software development.
+
+## Contributions
+
+Please do not submit "pull requests" (I found no way to disable that "feature" on GitHub).
+If you like to share small changes under the repositories license please kindly do so by sending a patch set.
+You can either send such a patchset per email using [git send-email](https://git-send-email.io) or 
+if you are a sourcehut user by pointing your browser to [Prepare a patchset](https://git.sr.ht/~sthagen/kysy/send-email).
 
 ## Status
 

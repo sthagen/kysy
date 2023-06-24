@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/kysy/blob/default/sbom.json) with SHA256 checksum ([107d6768 ...](https://git.sr.ht/~sthagen/kysy/blob/default/sbom.json.sha256 "sha256:107d6768156624e8a418c8a5c89e81a581c0c6d88fdc2c25f290040d0b0ba76b")).
-<!--[[[end]]] (checksum: 2473e26d62cd354be6868a0532cf8a76)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/kysy/blob/default/sbom/cdx.json) with SHA256 checksum ([419fa8bc ...](https://git.sr.ht/~sthagen/kysy/blob/default/sbom/cdx.json.sha256 "sha256:419fa8bc4dcdba3f5108689b1d81480944a0863b307ba5aea358daa0881a30ff")).
+<!--[[[end]]] (checksum: 38171a43983dc9e994f8758986a9683e)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -38,6 +38,6 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 <!--[[[fill dependency_tree_console_text()]]]-->
 ````console
 typer==0.7.0
-  - click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
+└── click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
 ````
-<!--[[[end]]] (checksum: 68a14cf00ff89129f24e70f991f10244)-->
+<!--[[[end]]] (checksum: c1e2e27f168bfef6f0a9e6d851fffa27)-->

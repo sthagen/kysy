@@ -20,6 +20,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 [![wheel](https://img.shields.io/pypi/wheel/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/kysy.svg?style=flat)](https://git.sr.ht/~sthagen/kysy/log)
 
 ## Documentation
 

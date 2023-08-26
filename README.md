@@ -16,7 +16,7 @@ Prototyping names and concepts:
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
-[![downloads](https://pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)
+[![downloads](https://static.pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)
 [![wheel](https://img.shields.io/pypi/wheel/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)

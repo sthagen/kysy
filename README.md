@@ -11,7 +11,7 @@ Prototyping names and concepts:
 * file (tiedosto)
 * folder (kansio)
 
-[License: MIT](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE)
+[License: MIT](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE) | 
 [Country of origin: Switzerland](https://git.sr.ht/~sthagen/kysy/tree/default/item/COUNTRY-OF-ORIGIN)
 
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).

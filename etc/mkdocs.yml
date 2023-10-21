@@ -1,5 +1,7 @@
 site_name: Kysy
 site_description: "Ask or know (kysy tai tiedä)."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'

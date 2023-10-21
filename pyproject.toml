@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kysy"
-version = "2021.10.20"
+version = "2023.10.21"
 description = "Ask or know (kysy tai tiedä)."
 readme = "README.md"
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]

@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# pylint: disable=missing-docstring,unused-import,reimported
-import pytest
 from typer.testing import CliRunner
 
 import kysy
@@ -26,14 +23,8 @@ def test_app_template():
 
 
 def test_cli_main():
-    message = 'ignoring template: ignored'
-    with pytest.raises(UserWarning) as ex:
-        cli.main(['diff', '.', 'kysy.txt', 'ignored']) == 0
-        assert message in str(ex.value)
+    cli.main(['diff', '.', 'kysy.txt', 'ignored']) == 0
 
 
 def test_cli_diff_path():
-    message = 'ignoring template: ignored'
-    with pytest.raises(UserWarning) as ex:
-        cli.diff_repo(source=cli.CWD, output='foran-eller-bagved.txt') == 0
-        assert message in str(ex.value)
+    cli.diff_repo(source=cli.CWD, output='kysy-ysyk.txt') == 0

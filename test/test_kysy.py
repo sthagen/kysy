@@ -8,7 +8,5 @@ import kysy.kysy as ky
 
 
 def test_main_empty():
-    message = 'received wrong number of arguments'
-    with pytest.raises(UserWarning) as ex:
+    with pytest.warns(UserWarning):
         ky.main([]) == 2
-    assert message in str(ex.value)

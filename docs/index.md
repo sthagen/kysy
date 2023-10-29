@@ -11,18 +11,15 @@ Prototyping names and concepts:
 * file (tiedosto)
 * folder (kansio)
 
-[License: MIT](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE) |
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/kysy/tree/default/item/COUNTRY-OF-ORIGIN) |
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/kysy/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/kysy/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/kysy/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-Third party dependencies are documented in the folder [third-party](third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
-[![downloads](https://static.pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)
-[![wheel](https://img.shields.io/pypi/wheel/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/kysy.svg?style=flat)](https://git.sr.ht/~sthagen/kysy/log)
+[![Version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![Downloads](https://static.pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/kysy.svg?style=flat)](https://git.sr.ht/~sthagen/kysy/log)
 
 ## Bug Tracker
 

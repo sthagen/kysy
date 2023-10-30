@@ -19,7 +19,7 @@ Prototyping names and concepts:
 [![Version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
 [![Downloads](https://static.pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/kysy.svg?style=flat)](https://git.sr.ht/~sthagen/kysy/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/kysy/log)
 
 ## Bug Tracker
 

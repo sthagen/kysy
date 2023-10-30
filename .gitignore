@@ -137,3 +137,4 @@ tests/fixtures
 local_*
 .vscode/
 current-bandit.json
+book

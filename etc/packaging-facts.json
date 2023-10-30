@@ -1,0 +1,149 @@
+{
+  "info": {
+    "author": "",
+    "author_email": "Stefan Hagen <stefan@hagen.link>",
+    "bugtrack_url": null,
+    "classifiers": [
+      "Development Status :: 3 - Alpha",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: 3.11",
+      "Programming Language :: Python :: 3.9"
+    ],
+    "description": "# Kysy\n\nAsk or know (Finnish: kysy tai tied\u00e4).\n\nRelating answers to files and folders (Finnish: Vastaukset tiedostoihin ja kansioihin).\n\nPrototyping names and concepts:\n\n* ask or know (kysy tai tied\u00e4)\n* ellipse (ellipsi)\n* file (tiedosto)\n* folder (kansio)\n\n[License: MIT](https://git.sr.ht/~sthagen/kysy/tree/default/item/LICENSE) | \n[Country of origin: Switzerland](https://git.sr.ht/~sthagen/kysy/tree/default/item/COUNTRY-OF-ORIGIN) | \n[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/kysy/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)\n\nThird party dependencies are documented in the folder [third-party](docs/third-party/README.md).\n\n[![version](https://img.shields.io/pypi/v/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)\n[![downloads](https://static.pepy.tech/badge/kysy/month)](https://pepy.tech/project/kysy)\n[![wheel](https://img.shields.io/pypi/wheel/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)\n[![supported-versions](https://img.shields.io/pypi/pyversions/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)\n[![supported-implementations](https://img.shields.io/pypi/implementation/kysy.svg?style=flat)](https://pypi.python.org/pypi/kysy/)\n[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/kysy.svg?style=flat)](https://git.sr.ht/~sthagen/kysy/log)\n\n## Documentation\n\nUser and developer [documentation of kysy](https://codes.dilettant.life/docs/kysy).\n\n## Bug Tracker\n\nAny feature requests or bug reports shall go to the [todos of kysy](https://todo.sr.ht/~sthagen/kysy).\n\n## Primary Source repository\n\nThe main source of `kysy` is on a mountain in central Switzerland.\nWe use distributed version control (git).\nThere is no central hub.\nEvery clone can become a new source for the benefit of all.\nThe preferred public clones of `kysy` are:\n\n* [on codeberg](https://codeberg.org/sthagen/kysy) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.\n* [at sourcehut](https://git.sr.ht/~sthagen/kysy) - a collection of tools useful for software development.\n\n## Contributions\n\nPlease do not submit \"pull requests\" (I found no way to disable that \"feature\" on GitHub).\nIf you like to share small changes under the repositories license please kindly do so by sending a patchset.\nYou can either send such a patchset per email using [git send-email](https://git-send-email.io) or \nif you are a sourcehut user by selecting \"Prepare a patchset\" on the summary page of your fork at [sourcehut](https://git.sr.ht/).\n\n## Status\n\nExperimental.\n\n**Note**: The default branch is `default`.\n",
+    "description_content_type": "text/markdown",
+    "docs_url": null,
+    "download_url": "",
+    "downloads": {
+      "last_day": -1,
+      "last_month": -1,
+      "last_week": -1
+    },
+    "home_page": "",
+    "keywords": "developer-tools,http",
+    "license": "",
+    "maintainer": "",
+    "maintainer_email": "Stefan Hagen <stefan@hagen.link>",
+    "name": "kysy",
+    "package_url": "https://pypi.org/project/kysy/",
+    "platform": null,
+    "project_url": "https://pypi.org/project/kysy/",
+    "project_urls": {
+      "Bug-Tracker": "https://todo.sr.ht/~sthagen/kysy",
+      "Documentation": "https://codes.dilettant.life/docs/kysy",
+      "Homepage": "https://git.sr.ht/~sthagen/kysy",
+      "Source-Code": "https://git.sr.ht/~sthagen/kysy",
+      "Test-Coverage": "https://codes.dilettant.life/coverage/kysy"
+    },
+    "release_url": "https://pypi.org/project/kysy/2023.10.21/",
+    "requires_dist": [
+      "typer >=0.9.0",
+      "black ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "hypothesis ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-flake8 ; extra == 'dev'",
+      "ruff ; extra == 'dev'"
+    ],
+    "requires_python": ">=3.9",
+    "summary": "Ask or know (kysy tai tied\u00e4).",
+    "version": "2023.10.21",
+    "yanked": false,
+    "yanked_reason": null
+  },
+  "last_serial": 20276479,
+  "releases": {
+    "2023.10.21": [
+      {
+        "comment_text": "",
+        "digests": {
+          "blake2b_256": "506d00d1241ecaa03a269fc5d2a7f5725a1e6271cf094845369ac4a2cd022e05",
+          "md5": "72acbe3821d7e2b6f892b2f99fc94a02",
+          "sha256": "4b18a41c3666d8a4b3030ea84ffaa49348ad181c27e329bd5311dd9a1b014343"
+        },
+        "downloads": -1,
+        "filename": "kysy-2023.10.21-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "72acbe3821d7e2b6f892b2f99fc94a02",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.9",
+        "size": 6681,
+        "upload_time": "2023-10-21T21:13:52",
+        "upload_time_iso_8601": "2023-10-21T21:13:52.657019Z",
+        "url": "https://files.pythonhosted.org/packages/50/6d/00d1241ecaa03a269fc5d2a7f5725a1e6271cf094845369ac4a2cd022e05/kysy-2023.10.21-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": "",
+        "digests": {
+          "blake2b_256": "744ad0a46fd2be1bc9b1083607ad6e6ad1e2b7e63f78204ea00a3940fc1a810a",
+          "md5": "6e221ecd4f659a7b0cb687a2c2559613",
+          "sha256": "7db41d6f896716f4fea733e9fec10cd0a318416252e2a8dcad5d401f69cdf608"
+        },
+        "downloads": -1,
+        "filename": "kysy-2023.10.21.tar.gz",
+        "has_sig": false,
+        "md5_digest": "6e221ecd4f659a7b0cb687a2c2559613",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.9",
+        "size": 6854,
+        "upload_time": "2023-10-21T21:13:54",
+        "upload_time_iso_8601": "2023-10-21T21:13:54.389445Z",
+        "url": "https://files.pythonhosted.org/packages/74/4a/d0a46fd2be1bc9b1083607ad6e6ad1e2b7e63f78204ea00a3940fc1a810a/kysy-2023.10.21.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ]
+  },
+  "urls": [
+    {
+      "comment_text": "",
+      "digests": {
+        "blake2b_256": "506d00d1241ecaa03a269fc5d2a7f5725a1e6271cf094845369ac4a2cd022e05",
+        "md5": "72acbe3821d7e2b6f892b2f99fc94a02",
+        "sha256": "4b18a41c3666d8a4b3030ea84ffaa49348ad181c27e329bd5311dd9a1b014343"
+      },
+      "downloads": -1,
+      "filename": "kysy-2023.10.21-py3-none-any.whl",
+      "has_sig": false,
+      "md5_digest": "72acbe3821d7e2b6f892b2f99fc94a02",
+      "packagetype": "bdist_wheel",
+      "python_version": "py3",
+      "requires_python": ">=3.9",
+      "size": 6681,
+      "upload_time": "2023-10-21T21:13:52",
+      "upload_time_iso_8601": "2023-10-21T21:13:52.657019Z",
+      "url": "https://files.pythonhosted.org/packages/50/6d/00d1241ecaa03a269fc5d2a7f5725a1e6271cf094845369ac4a2cd022e05/kysy-2023.10.21-py3-none-any.whl",
+      "yanked": false,
+      "yanked_reason": null
+    },
+    {
+      "comment_text": "",
+      "digests": {
+        "blake2b_256": "744ad0a46fd2be1bc9b1083607ad6e6ad1e2b7e63f78204ea00a3940fc1a810a",
+        "md5": "6e221ecd4f659a7b0cb687a2c2559613",
+        "sha256": "7db41d6f896716f4fea733e9fec10cd0a318416252e2a8dcad5d401f69cdf608"
+      },
+      "downloads": -1,
+      "filename": "kysy-2023.10.21.tar.gz",
+      "has_sig": false,
+      "md5_digest": "6e221ecd4f659a7b0cb687a2c2559613",
+      "packagetype": "sdist",
+      "python_version": "source",
+      "requires_python": ">=3.9",
+      "size": 6854,
+      "upload_time": "2023-10-21T21:13:54",
+      "upload_time_iso_8601": "2023-10-21T21:13:54.389445Z",
+      "url": "https://files.pythonhosted.org/packages/74/4a/d0a46fd2be1bc9b1083607ad6e6ad1e2b7e63f78204ea00a3940fc1a810a/kysy-2023.10.21.tar.gz",
+      "yanked": false,
+      "yanked_reason": null
+    }
+  ],
+  "vulnerabilities": []
+}

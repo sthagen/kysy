@@ -1,7 +1,7 @@
 {
   "kysy": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:22:23.633852",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:57:21 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 63,
@@ -13,6 +13,26 @@
     "num_branches": 20,
     "num_partial_branches": 2,
     "covered_branches": 10,
-    "missing_branches": 10
+    "missing_branches": 10,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 7,
+    "files": [
+      "kysy/__init__.py",
+      "kysy/cli.py",
+      "kysy/ellipsi.py",
+      "kysy/kansio.py",
+      "kysy/kysy.py",
+      "kysy/report.py",
+      "kysy/tiedosto.py"
+    ],
+    "blake3": "ebc10e72238192b2eb95ef23d1aa67413e1c3d024250f800887ec2a86b220206",
+    "blake2": "1bcbe2ee63494e717867d246ae6e3806547441ff9b423a4f3bd7f7d17a7dae18ca27be571a0076419a661c0b67e867c357371187929a5625370cf4164cf88d25",
+    "sha512": "04b3549d9a3b29906af37d3d3ba57a0f37a07efdfca71c4d290e1283152cb36896b21d92c2413a61f4d68a2a8899e70e8da1c1dacedc0cc6f5e61764ae159d10",
+    "sha384": "0c306877a727aa594cf26a42bb4c641b0ca6db2c0c5f448649fd9540a027c7a4cb8161ccabd0d325a5eb721252dbb9bf",
+    "sha256": "a00cd6fc3e12e6e7aa1c701ef1459625bf55acd926aef01fb3daf7e4ef9a84da",
+    "sha1": "b277b57048ccc1ebd4ece3f069443719c43611a7",
+    "md5": "db7348bb2aa8702febf475374000358e",
+    "python_version": "3.10.12",
+    "entropy": 5.002821
   }
 }

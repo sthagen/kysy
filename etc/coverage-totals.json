@@ -1,0 +1,18 @@
+{
+  "kysy": {
+    "version": "7.3.2",
+    "timestamp": "2023-12-02T15:22:23.633852",
+    "branch_coverage": true,
+    "show_contexts": true,
+    "covered_lines": 63,
+    "num_statements": 77,
+    "percent_covered": 75.25773195876289,
+    "percent_covered_display": "75.26",
+    "missing_lines": 14,
+    "excluded_lines": 0,
+    "num_branches": 20,
+    "num_partial_branches": 2,
+    "covered_branches": 10,
+    "missing_branches": 10
+  }
+}

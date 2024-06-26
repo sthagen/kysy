@@ -27,11 +27,6 @@
     },
     {
       "category": "3.11",
-      "date": "2023-12",
-      "downloads": 2
-    },
-    {
-      "category": "3.11",
       "date": "2024-02",
       "downloads": 4
     },
@@ -98,7 +93,7 @@
     {
       "category": "null",
       "date": "2024-06",
-      "downloads": 2
+      "downloads": 4
     }
   ],
   "package": "kysy",

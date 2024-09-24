@@ -2,11 +2,6 @@
   "data": [
     {
       "category": "3.10",
-      "date": "2024-03",
-      "downloads": 1
-    },
-    {
-      "category": "3.10",
       "date": "2024-04",
       "downloads": 3
     },
@@ -36,11 +31,6 @@
       "downloads": 5
     },
     {
-      "category": "3.11",
-      "date": "2024-03",
-      "downloads": 1
-    },
-    {
       "category": "3.12",
       "date": "2024-03",
       "downloads": 2
@@ -64,6 +54,11 @@
       "category": "3.12",
       "date": "2024-08",
       "downloads": 6
+    },
+    {
+      "category": "3.12",
+      "date": "2024-09",
+      "downloads": 2
     },
     {
       "category": "3.9",
@@ -113,7 +108,7 @@
     {
       "category": "null",
       "date": "2024-09",
-      "downloads": 23
+      "downloads": 25
     }
   ],
   "package": "kysy",

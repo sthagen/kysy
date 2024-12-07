@@ -2,13 +2,8 @@
   "data": [
     {
       "category": "3.10",
-      "date": "2024-05",
-      "downloads": 4
-    },
-    {
-      "category": "3.10",
       "date": "2024-06",
-      "downloads": 5
+      "downloads": 2
     },
     {
       "category": "3.10",
@@ -36,13 +31,18 @@
       "downloads": 9
     },
     {
+      "category": "3.10",
+      "date": "2024-12",
+      "downloads": 2
+    },
+    {
       "category": "3.11",
       "date": "2024-11",
       "downloads": 2
     },
     {
-      "category": "3.12",
-      "date": "2024-06",
+      "category": "3.11",
+      "date": "2024-12",
       "downloads": 2
     },
     {
@@ -63,6 +63,11 @@
     {
       "category": "3.13",
       "date": "2024-10",
+      "downloads": 2
+    },
+    {
+      "category": "3.13",
+      "date": "2024-11",
       "downloads": 2
     },
     {
@@ -92,11 +97,6 @@
     },
     {
       "category": "null",
-      "date": "2024-05",
-      "downloads": 3
-    },
-    {
-      "category": "null",
       "date": "2024-06",
       "downloads": 5
     },
@@ -123,7 +123,12 @@
     {
       "category": "null",
       "date": "2024-11",
-      "downloads": 40
+      "downloads": 41
+    },
+    {
+      "category": "null",
+      "date": "2024-12",
+      "downloads": 2
     }
   ],
   "package": "kysy",

@@ -58,7 +58,7 @@
     {
       "category": "3.12",
       "date": "2025-01",
-      "downloads": 2
+      "downloads": 4
     },
     {
       "category": "3.13",
@@ -123,7 +123,12 @@
     {
       "category": "null",
       "date": "2025-01",
-      "downloads": 67
+      "downloads": 69
+    },
+    {
+      "category": "null",
+      "date": "2025-02",
+      "downloads": 1
     }
   ],
   "package": "kysy",
